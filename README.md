@@ -1,6 +1,6 @@
 # Image Distortion
 
-This repository aims to produce the various distorted version of the original images.
+This repository aims to produce the various distorted versions of the original images.
 The term "Distortion" contains the followings:
   * Rotation
   * Translation
